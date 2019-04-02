@@ -73,7 +73,7 @@ xl2tpd
 xorg-server
 xorg-apps
 xorg-xinit
-xterm
+#xterm
 
 #video
 #xorg-drivers
@@ -145,10 +145,10 @@ pavucontrol
 #bluetooth
 blueberry
 bluez
-bluez-libs
-bluez-utils
+#bluez-libs
+#bluez-utils
 #bluez-firmware
-pulseaudio-bluetooth
+#pulseaudio-bluetooth
 
 #network
 avahi
@@ -157,11 +157,11 @@ nss-mdns
 #modemmanager
 networkmanager
 network-manager-applet
-networkmanager-openconnect
-networkmanager-openvpn
-networkmanager-pptp
-networkmanager-vpnc
-networkmanager-dispatcher-ntpd
+#networkmanager-openconnect
+#networkmanager-openvpn
+#networkmanager-pptp
+#networkmanager-vpnc
+#networkmanager-dispatcher-ntpd
 openresolv
 #samba
 wpa_supplicant
@@ -175,9 +175,9 @@ gvfs
 #gvfs-smb
 mtpfs
 thunar
-thunar-archive-plugin
+#thunar-archive-plugin
 #thunar-media-tags-plugin
-thunar-volman
+#thunar-volman
 udiskie
 udisks2
 xdg-user-dirs
@@ -317,7 +317,7 @@ dialog
 #dmidecode
 #evince
 #expac
-file-roller
+#file-roller
 #filezilla
 git
 gksu
@@ -341,12 +341,12 @@ gnome-keyring
 #intltool
 #iw
 #jsoncpp
-libmtp
+#libmtp
 laptop-detect
 lsb-release
-mlocate
+#mlocate
 #nomacs
-p7zip
+#p7zip
 #plank
 #playerctl
 polkit
@@ -371,15 +371,15 @@ reflector
 #tree
 #ufw
 #gufw
-unace
-unrar
-unzip
+#unace
+#unrar
+#unzip
 #vnstat
-w3m
+#w3m
 webkit2gtk
 wget
-wmctrl
-xapps
+#wmctrl
+#xapps
 #xcape
 xdg-desktop-portal-gtk
 #xfburn
@@ -449,7 +449,7 @@ mkinitcpio-openswap
 #menulibre
 #mintstick-git
 #mugshot
-neofetch
+#neofetch
 #oh-my-zsh-git
 #oomox
 pamac-aur
@@ -482,7 +482,7 @@ trizen
 
 #############################
 #arcolinux_repo for arcolinux
-arcolinux-applications-git
+#arcolinux-applications-git
 #arcolinux-arc-themes-git
 #arcolinux-arc-themes-nico-git
 #arcolinux-awesome-git
@@ -510,10 +510,10 @@ arcolinux-keyring
 arcolinux-lightdm-gtk-greeter
 #arcolinux-lightdm-gtk-greeter-plasma
 arcolinux-lightdm-gtk-greeter-settings
-arcolinux-local-git
+#arcolinux-local-git
 #arcolinux-logo-git
 arcolinux-mirrorlist-git
-arcolinux-neofetch-git
+#arcolinux-neofetch-git
 #arcolinux-nitrogen-git
 #arcolinux-oblogout
 #arcolinux-oblogout-awesome
@@ -550,21 +550,21 @@ arcolinux-xfce-thunar-git
 #xfce4 also for ArcoLinuxB iso builds
 #xfce4 group content
 exo
-garcon
+#garcon
 gtk-xfce-engine
 thunar
-thunar-volman
-tumbler
+#thunar-volman
+#tumbler
 xfce4-appfinder
 xfce4-panel
 xfce4-power-manager
 xfce4-session
 xfce4-settings
-xfce4-terminal
+#xfce4-terminal
 xfconf
 xfdesktop
 xfwm4
-xfwm4-themes
+#xfwm4-themes
 
 
 #xfce4-goodies group content
@@ -572,39 +572,39 @@ xfwm4-themes
 #orage
 #parole
 #ristretto
-thunar-archive-plugin
-thunar-media-tags-plugin
+#thunar-archive-plugin
+#thunar-media-tags-plugin
 #xfburn
 #xfce4-artwork
-xfce4-battery-plugin
+#xfce4-battery-plugin
 #xfce4-clipman-plugin
-xfce4-cpufreq-plugin
-xfce4-cpugraph-plugin
-xfce4-datetime-plugin
-xfce4-dict
-xfce4-diskperf-plugin
-xfce4-eyes-plugin
-xfce4-fsguard-plugin
-xfce4-genmon-plugin
-xfce4-mailwatch-plugin
-xfce4-mount-plugin
-xfce4-mpc-plugin
-xfce4-netload-plugin
-xfce4-notes-plugin
+#xfce4-cpufreq-plugin
+#xfce4-cpugraph-plugin
+#xfce4-datetime-plugin
+#xfce4-dict
+#xfce4-diskperf-plugin
+#xfce4-eyes-plugin
+#xfce4-fsguard-plugin
+#xfce4-genmon-plugin
+#xfce4-mailwatch-plugin
+#xfce4-mount-plugin
+#xfce4-mpc-plugin
+#xfce4-netload-plugin
+#xfce4-notes-plugin
 xfce4-notifyd
-xfce4-pulseaudio-plugin
+#xfce4-pulseaudio-plugin
 xfce4-screenshooter
-xfce4-sensors-plugin
-xfce4-smartbookmark-plugin
-xfce4-systemload-plugin
+#xfce4-sensors-plugin
+#xfce4-smartbookmark-plugin
+#xfce4-systemload-plugin
 xfce4-taskmanager
-xfce4-time-out-plugin
-xfce4-timer-plugin
-xfce4-verve-plugin
-xfce4-wavelan-plugin
-xfce4-weather-plugin
-xfce4-whiskermenu-plugin
-xfce4-xkb-plugin
+#xfce4-time-out-plugin
+#xfce4-timer-plugin
+#xfce4-verve-plugin
+#xfce4-wavelan-plugin
+#xfce4-weather-plugin
+#xfce4-whiskermenu-plugin
+#xfce4-xkb-plugin
 
 xfce4-panel-profiles
 
