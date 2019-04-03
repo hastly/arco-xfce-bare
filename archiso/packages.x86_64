@@ -449,7 +449,7 @@ mkinitcpio-openswap
 #menulibre
 #mintstick-git
 #mugshot
-#neofetch
+neofetch
 #oh-my-zsh-git
 #oomox
 pamac-aur
