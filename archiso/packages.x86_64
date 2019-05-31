@@ -64,7 +64,7 @@ vim-minimal
 vpnc
 wget
 wireless_tools
-wpa_actiond
+#wpa_actiond
 wvdial
 xl2tpd
 
@@ -218,7 +218,6 @@ cups
 
 #applications
 #atom
-#catfish
 #chromium
 #compton
 #darktable
@@ -313,7 +312,6 @@ bash-completion
 #cmatrix
 #cool-retro-term
 #dconf-editor
-dialog
 #dmidecode
 #evince
 #expac
@@ -377,12 +375,10 @@ redshift
 #vnstat
 #w3m
 webkit2gtk
-wget
 #wmctrl
 #xapps
 #xcape
 xdg-desktop-portal-gtk
-#xfburn
 #youtube-dl
 #zenity
 #zsh
@@ -446,6 +442,7 @@ mkinitcpio-openswap
 #grub-customizer
 #hardcode-fixer-git
 #inxi
+#libappindicator-gtk3
 #menulibre
 #mintstick-git
 #mugshot
@@ -455,7 +452,6 @@ neofetch
 pamac-aur
 #peek
 #pulseaudio-equalizer-ladspa
-#python-pystache
 #python-pywal
 #screenkey
 sublime-text-dev
@@ -518,6 +514,7 @@ arcolinux-mirrorlist-git
 #arcolinux-oblogout
 #arcolinux-oblogout-awesome
 #arcolinux-oblogout-bspwm
+#arcolinux-oblogout-qtile
 #arcolinux-oblogout-themes-git
 #arcolinux-oblogout-xmonad
 #arcolinux-obmenu-generator-git
@@ -553,8 +550,6 @@ exo
 #garcon
 gtk-xfce-engine
 thunar
-#thunar-volman
-#tumbler
 xfce4-appfinder
 xfce4-panel
 xfce4-power-manager
@@ -572,8 +567,6 @@ xfwm4
 #orage
 #parole
 #ristretto
-#thunar-archive-plugin
-#thunar-media-tags-plugin
 #xfburn
 #xfce4-artwork
 #xfce4-battery-plugin
@@ -610,10 +603,9 @@ xfce4-panel-profiles
 
 #Needed for Calamares installer
 calamares
-arcolinuxb-calamares-xfce-git
 arcolinux-system-installation-git
+arcolinuxb-calamares-xfce-git
 ckbcomp
-networkmanager
 upower
 kcoreaddons
 kconfig
