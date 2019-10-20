@@ -346,7 +346,7 @@ gnome-keyring
 #gnome-screenshot
 #gnome-software
 #gnome-software-packagekit-plugin
-#gparted
+gparted
 #gpick
 #gtop
 #hardinfo
