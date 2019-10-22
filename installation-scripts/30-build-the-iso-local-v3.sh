@@ -74,6 +74,11 @@ rm ../work/archiso/packages.x86_64
 echo "Copying the new packages.x86_64 file"
 cp -f ../archiso/packages.x86_64 ../work/archiso/packages.x86_64
 
+echo "Removing the old customize_airootfs.sh file from work folder"
+rm ../work/archiso/airootfs/root/customize_airootfs.sh
+echo "Copying the new packages.x86_64 file"
+cp -f ../archiso/customize_airootfs.sh ../work/archiso/airootfs/root/customize_airootfs.sh
+
 echo "Removing old files/folders from /etc/skel"
 rm -rf ../work/archiso/airootfs/etc/skel/.* 2> /dev/null
 
